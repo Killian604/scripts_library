@@ -27,3 +27,8 @@ export HISTTIMEFORMAT="%h %d %H:%M:%S "
 export projects=~/projects
 export PROMPT_COMMAND='history -a'
 
+# Links
+## BerryConda repo
+https://github.com/jjhelmus/berryconda/
+
+
