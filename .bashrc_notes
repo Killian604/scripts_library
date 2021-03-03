@@ -30,5 +30,5 @@ export PROMPT_COMMAND='history -a'
 # Links
 ## BerryConda repo
 https://github.com/jjhelmus/berryconda/
-
-
+# berryconda link:
+https://github.com/jjhelmus/berryconda/releases/download/v2.0.0/Berryconda3-2.0.0-Linux-armv7l.sh
